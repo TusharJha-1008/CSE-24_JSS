@@ -29,3 +29,8 @@ if(syml === sym2){
 //x=b means x is assigned the value of b.
 //x==b means x is compared to b for equality of value.
 //x===b means x is compared to b for equality of value and type.
+var count;
+for(count=0; count<10; count++){
+    document.write("current count is: " + count + "<br>");
+
+}
